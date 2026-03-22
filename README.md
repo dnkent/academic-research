@@ -15,7 +15,7 @@ Kent, Daniel, James D. Wilson, and Skyler J. Cranmer. “A Permutation-Based Cha
 Gannon, J. Andrés, and Daniel Kent. “Keeping Your Friends Close, but Acquaintances Closer: Why Weakly Allied States Make Committed Coalition Partners.” Journal of Conflict Resolution, (December 2020). https://doi.org/10.1177/0022002720978800.
 - [Code and pre-print](https://github.com/CenterForPeaceAndSecurityStudies/ISAF?tab=readme-ov-file)
 
-Beek, Maël van, Michael Z. Lopate, Andrew Goodhart, David A. Peterson, Jared Edgerton, Haoming Xiong, Maryum Alam, Leyla Tiglay, Daniel Kent, and Bear F. Braumoeller. 2025. “Hierarchy and war.” American Journal of Political Science69: 299–313. https://doi.org/10.1111/ajps.12855
+Beek, Maël van, Michael Z. Lopate, Andrew Goodhart, David A. Peterson, Jared Edgerton, Haoming Xiong, Maryum Alam, Leyla Tiglay, Daniel Kent, and Bear F. Braumoeller. 2025. “Hierarchy and war.” American Journal of Political Science 69: 299–313. https://doi.org/10.1111/ajps.12855
 
 ## Dissertation 
 
