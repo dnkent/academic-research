@@ -1,6 +1,8 @@
 # Academic Research 
 
-Citation information and links to publications and dissertation published as part of my PhD. 
+My PhD research applied machine learning, causal inference, network analysis, and experimental methods to large-scale social science problems. Across these projects, I either developed novel statistical techniques or led the coding and analysis for applied work.
+
+Citations and links to code and ungated publications can be found below. 
 
 ## Publications 
 
