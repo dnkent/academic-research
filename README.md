@@ -1,6 +1,6 @@
 # Academic Research 
 
-My PhD research applied machine learning, causal inference, network analysis, and experimental methods to large-scale social science problems. Across these projects, I either developed novel statistical techniques or led the coding and analysis for applied work.
+My PhD research applied machine learning, causal inference, network analysis, and experimental methods to large-scale social science questions. Across these projects, I either developed novel statistical techniques or led the coding and analysis for applied work.
 
 Citations and links to code and ungated publications can be found below. 
 
